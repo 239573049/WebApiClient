@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "WebApiClientCore.OpenApi.SourceGenerator": {
-      "commandName": "Project",
-      "commandLineArgs": "-o petstore.json"
-    }
-  }
-}
